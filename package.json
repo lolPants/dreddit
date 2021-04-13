@@ -22,26 +22,26 @@
     "debug": "nodemon --inspect"
   },
   "devDependencies": {
-    "@types/cheerio": "^0.22.25",
-    "@types/ioredis": "^4.22.0",
+    "@types/cheerio": "^0.22.28",
+    "@types/ioredis": "^4.22.3",
     "@types/node-cron": "^2.0.3",
     "@zerollup/ts-transform-paths": "^1.7.18",
     "ttypescript": "^1.5.12",
-    "type-fest": "^0.21.2",
-    "typescript": "^4.2.3",
+    "type-fest": "^1.0.1",
+    "typescript": "^4.2.4",
     "xo": "^0.38.2"
   },
   "dependencies": {
-    "@lolpants/signale": "^1.5.0",
-    "ajv": "^7.2.1",
+    "@lolpants/jogger": "^0.5.0",
+    "ajv": "^8.1.0",
     "axios": "^0.21.1",
-    "cheerio": "1.0.0-rc.5",
-    "discord.js": "^12.5.1",
+    "cheerio": "^1.0.0-rc.6",
+    "discord.js": "^12.5.3",
     "dotenv": "^8.2.0",
-    "ioredis": "^4.23.0",
-    "node-cron": "^2.0.3",
-    "read-pkg-up": "^7.0.1",
+    "ioredis": "^4.26.0",
+    "node-cron": "^3.0.0",
+    "read-pkg-up": "^8.0.0",
     "source-map-support": "^0.5.19",
-    "tslib": "^2.1.0"
+    "tslib": "^2.2.0"
   }
 }
