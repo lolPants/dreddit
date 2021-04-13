@@ -1,5 +1,5 @@
 import Axios, { AxiosError, AxiosRequestConfig } from 'axios'
-import { sync as readPkg } from 'read-pkg-up'
+import { readPackageUpSync as readPkg } from 'read-pkg-up'
 import { IMGUR_CLID } from '~env'
 
 const pkg = readPkg()
